@@ -4,3 +4,4 @@ requests
 discord-py-slash-command
 wolframalpha
 discord-components
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
